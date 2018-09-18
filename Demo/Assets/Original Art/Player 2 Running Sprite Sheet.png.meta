@@ -1,9 +1,20 @@
 fileFormatVersion: 2
 guid: 4e2e68b1a0ac2f14a86f39ff14e1c805
-timeCreated: 1536789902
+timeCreated: 1537288169
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Player 2 Running Sprite Sheet_0
+    21300002: Player 2 Running Sprite Sheet_1
+    21300004: Player 2 Running Sprite Sheet_2
+    21300006: Player 2 Running Sprite Sheet_3
+    21300008: Player 2 Running Sprite Sheet_4
+    21300010: Player 2 Running Sprite Sheet_5
+    21300012: Player 2 Running Sprite Sheet_6
+    21300014: Player 2 Running Sprite Sheet_7
+    21300016: Player 2 Running Sprite Sheet_8
+    21300018: Player 2 Running Sprite Sheet_9
+    21300020: Player 2 Running Sprite Sheet_10
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -39,7 +50,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -63,9 +74,171 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Player 2 Running Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1074
+        width: 259
+        height: 251
+      alignment: 9
+      pivot: {x: 0.57302594, y: 0.39073735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player 2 Running Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1085
+        width: 260
+        height: 242
+      alignment: 9
+      pivot: {x: 0.62548524, y: 0.4003513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player 2 Running Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1090
+        width: 258
+        height: 247
+      alignment: 9
+      pivot: {x: 0.64111966, y: 0.4176831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player 2 Running Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 792
+        width: 252
+        height: 248
+      alignment: 9
+      pivot: {x: 0.6107054, y: 0.4103886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player 2 Running Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 797
+        width: 253
+        height: 248
+      alignment: 9
+      pivot: {x: 0.58784044, y: 0.38941562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player 2 Running Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 796
+        width: 263
+        height: 246
+      alignment: 9
+      pivot: {x: 0.60068154, y: 0.38659444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player 2 Running Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 518
+        width: 253
+        height: 243
+      alignment: 9
+      pivot: {x: 0.6270883, y: 0.37546518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player 2 Running Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 506
+        width: 265
+        height: 249
+      alignment: 9
+      pivot: {x: 0.6034903, y: 0.39175868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player 2 Running Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 496
+        width: 243
+        height: 259
+      alignment: 9
+      pivot: {x: 0.6167515, y: 0.44340485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player 2 Running Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 222
+        width: 251
+        height: 237
+      alignment: 9
+      pivot: {x: 0.59607565, y: 0.37829784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player 2 Running Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 230
+        width: 264
+        height: 236
+      alignment: 9
+      pivot: {x: 0.6056734, y: 0.35974988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
