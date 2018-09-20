@@ -106,11 +106,11 @@ public class GameController : MonoBehaviour {
 
 
 	public void EndLevel() {
-		WaitForSecondsRealtime (.4);
 		UpdateHighScores ();
 		btnPlay.gameObject.SetActive (true);
 		ball.gameObject.SetActive (false);
 		txtGameOver.gameObject.SetActive (true);
+
 
 	}
 

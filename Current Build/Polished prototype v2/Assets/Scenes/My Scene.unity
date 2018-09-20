@@ -786,7 +786,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 510a7dbef892fb944b41be401be34a8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BombSpray: {fileID: 0}
+  BombSpray: {fileID: 1473295760975142, guid: ea53511db3b99574f90940b10ae70a01, type: 2}
 --- !u!114 &328697419
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -798,6 +798,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddd71e18d5e9ffe40a760a8b9ebe816b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  BombSpray: {fileID: 1473295760975142, guid: ea53511db3b99574f90940b10ae70a01, type: 2}
+  Bomb: {fileID: 328697412}
 --- !u!1 &335247069
 GameObject:
   m_ObjectHideFlags: 0
@@ -2578,6 +2580,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddd71e18d5e9ffe40a760a8b9ebe816b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  BombSpray: {fileID: 0}
+  Bomb: {fileID: 0}
 --- !u!4 &1053325443
 Transform:
   m_ObjectHideFlags: 0
