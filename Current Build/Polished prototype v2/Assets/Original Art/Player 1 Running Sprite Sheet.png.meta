@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: fd2eaef01640fa445834c81894b2500e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player 1 Running Sprite Sheet_0
+    21300002: Player 1 Running Sprite Sheet_1
+    21300004: Player 1 Running Sprite Sheet_2
+    21300006: Player 1 Running Sprite Sheet_3
+    21300008: Player 1 Running Sprite Sheet_4
+    21300010: Player 1 Running Sprite Sheet_5
+    21300012: Player 1 Running Sprite Sheet_6
+    21300014: Player 1 Running Sprite Sheet_7
+    21300016: Player 1 Running Sprite Sheet_8
+    21300018: Player 1 Running Sprite Sheet_9
+    21300020: Player 1 Running Sprite Sheet_10
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player 1 Running Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1022
+        width: 213
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5339291, y: 0.2884615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f1954c2e8309f469152ad97162e6d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1 Running Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1031
+        width: 213
+        height: 207
+      alignment: 9
+      pivot: {x: 0.6277331, y: 0.26998827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce8af2a5e43b5045a937d81b70e31b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1 Running Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1035
+        width: 212
+        height: 212
+      alignment: 9
+      pivot: {x: 0.6584142, y: 0.29747096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4b2b8a208ac714e89e017275cab60c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1 Running Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 790
+        width: 207
+        height: 213
+      alignment: 9
+      pivot: {x: 0.6191132, y: 0.29443017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04a385588a2e5a428f586450b4bd683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1 Running Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 795
+        width: 207
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5616104, y: 0.2602458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686abd24faae4a444a8298e75be62ef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1 Running Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 794
+        width: 216
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5570752, y: 0.26998857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da574f5d3146874893f28bda0393a6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1 Running Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 566
+        width: 209
+        height: 205
+      alignment: 9
+      pivot: {x: 0.6301775, y: 0.2511546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23b88b8f2d6dea418f05adccd6a09c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1 Running Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 556
+        width: 217
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5881567, y: 0.27422366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b737e3b98c21084e98cf90c1eb913a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1 Running Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 547
+        width: 199
+        height: 221
+      alignment: 9
+      pivot: {x: 0.6196292, y: 0.31148946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156225fb309383e4fa3d1d685144a05d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1 Running Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 322
+        width: 206
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5928641, y: 0.2579814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb3a7a1d9a05354f948cb134973d66b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1 Running Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 330
+        width: 216
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5964372, y: 0.24365173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ec60686a34a174da9b2f63d1755307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6d192d2b58d043e488e0e20617ed8d9a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
