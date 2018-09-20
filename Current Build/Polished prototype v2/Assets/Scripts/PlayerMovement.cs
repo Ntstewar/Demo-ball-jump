@@ -17,15 +17,10 @@ public class PlayerMovement : MonoBehaviour {
 
 		if (Input.GetButtonDown ("Jump")) {
 			jump = true;
-			animPlayer.SetBool("IsJumping", true);
 		}
 
 	}
-
-
-	public void onLanding() {
-		animPlayer.SetBool ("IsJumping", false);
-	}
+		
 
 
 

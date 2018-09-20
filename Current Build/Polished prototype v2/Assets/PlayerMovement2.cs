@@ -20,15 +20,8 @@ public class PlayerMovement2 : MonoBehaviour
         if (Input.GetButtonDown("Jump2"))
         {
             jump = true;
-            animPlayer.SetBool("IsJumping", true);
         }
 
-    }
-
-
-    public void onLanding()
-    {
-        animPlayer.SetBool("IsJumping", false);
     }
 
 

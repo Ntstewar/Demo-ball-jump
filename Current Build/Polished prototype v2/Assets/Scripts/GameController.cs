@@ -87,13 +87,13 @@ public class GameController : MonoBehaviour {
 	}
 
 
-	void PositionBall() {
+	public void PositionBall() {
 		Vector3 ballPosition = new Vector3(Random.Range(-9.0f, 9.0f), 5.0f, -0.1f);
 		//	Vector3 centeredBallPosition = new Vector3(0.45f, 5.0f, -0.1f);
 		ball.transform.position = ballPosition;		
 	}
 
-	public void StartLevel() {
+	void StartLevel() {
 		gameOver = false;
 		UpdateHighScores ();
 		score = 0;
@@ -106,6 +106,7 @@ public class GameController : MonoBehaviour {
 
 
 	public void EndLevel() {
+		WaitForSecondsRealtime (.4);
 		UpdateHighScores ();
 		btnPlay.gameObject.SetActive (true);
 		ball.gameObject.SetActive (false);
