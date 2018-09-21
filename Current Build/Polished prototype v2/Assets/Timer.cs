@@ -32,7 +32,7 @@ public class Timer : MonoBehaviour
     }
     void Update()
     {
-        if (time > 0)
+		if (time > 0 && GameController.instance.gameOver == false)
      timerText.text = time.ToString("0");
         if (time == 0)
             timerText.text = time.ToString("Player 1 wins! Press R to restart!");
